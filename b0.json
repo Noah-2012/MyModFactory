@@ -1,0 +1,11 @@
+{
+    
+    "errorcodes" : {
+        "InputNoOrderErrno" : "Errno.:123",
+        "DiskNoNameErrno" : "Errno.:433",
+        "NoAccesErrno" : "Errno.:200"
+    },
+    "rootacces" : false,
+    "LoadingTimeBegin" : 0.3
+}
+

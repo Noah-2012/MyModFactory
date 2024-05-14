@@ -1,0 +1,12 @@
+{
+    
+    "StartSignal" : {
+        "StartSignalTrue" : true,
+        "StartSignalDirectory" : "C:/Users/Noadsch12/Desktop/beep-sound-8333.mp3"
+    },
+    "StartText" : {
+        "StartTextTrue" : true,
+        "StartTextColorTrue" : true
+    },
+    "EndTextTrue" : false
+}
